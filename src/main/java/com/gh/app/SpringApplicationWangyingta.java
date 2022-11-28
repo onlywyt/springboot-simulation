@@ -10,6 +10,9 @@ import org.apache.catalina.webresources.StandardRoot;
 import javax.servlet.ServletException;
 import java.io.File;
 
+/**
+ * 自定义 tomcat
+ */
 public class SpringApplicationWangyingta {
 
     private static final String[] CLASSPATH_RESOURCE_LOCATIONS = { "classpath:/META-INF/resources/",
